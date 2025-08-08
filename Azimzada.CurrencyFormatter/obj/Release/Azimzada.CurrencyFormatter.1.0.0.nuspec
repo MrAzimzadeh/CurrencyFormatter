@@ -10,12 +10,12 @@
     <projectUrl>https://github.com/MrAzimzadeh/CurrencyFormatter</projectUrl>
     <description>Advanced currency formatter library that supports all currencies and cultures with compact formatting and minor currency units.</description>
     <tags>currency formatter money culture localization compact extension</tags>
-    <repository type="git" url="https://github.com/MrAzimzadeh/CurrencyFormatter" />
+    <repository type="git" url="https://github.com/MrAzimzadeh/CurrencyFormatter" commit="66a1e763dedd54d17d40194977c5c802e83f8ee0" />
     <dependencies>
-      <group targetFramework="net6.0" />
+      <group targetFramework="net9.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\bin\Release\net6.0\Azimzada.CurrencyFormatter.dll" target="lib\net6.0\Azimzada.CurrencyFormatter.dll" />
+    <file src="C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\bin\Release\net9.0\Azimzada.CurrencyFormatter.dll" target="lib\net9.0\Azimzada.CurrencyFormatter.dll" />
   </files>
 </package>

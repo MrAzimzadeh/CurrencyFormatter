@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Azimzada")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Advanced currency formatter library that supports all currencies and cultures wit" +
     "h compact formatting and minor currency units."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
