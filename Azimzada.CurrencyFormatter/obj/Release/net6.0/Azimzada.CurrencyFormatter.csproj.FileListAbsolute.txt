@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\bin\Release\net6.0\Azimzada.CurrencyFormatter.deps.json
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\bin\Release\net6.0\Azimzada.CurrencyFormatter.dll
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\bin\Release\net6.0\Azimzada.CurrencyFormatter.pdb
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\Azimzada.CurrencyFormatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\Azimzada.CurrencyFormatter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\Azimzada.CurrencyFormatter.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\Azimzada.CurrencyFormatter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\Azimzada.CurrencyFormatter.dll
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\refint\Azimzada.CurrencyFormatter.dll
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\Azimzada.CurrencyFormatter.pdb
+C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\obj\Release\net6.0\ref\Azimzada.CurrencyFormatter.dll

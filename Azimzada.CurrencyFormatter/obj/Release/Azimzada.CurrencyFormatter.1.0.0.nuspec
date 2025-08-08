@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Azimzada.CurrencyFormatter</id>
+    <version>1.0.0</version>
+    <title>Azimzada Currency Formatter</title>
+    <authors>Mahammad Azimzada</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/MrAzimzadeh/CurrencyFormatter</projectUrl>
+    <description>Advanced currency formatter library that supports all currencies and cultures with compact formatting and minor currency units.</description>
+    <tags>currency formatter money culture localization compact extension</tags>
+    <repository type="git" url="https://github.com/MrAzimzadeh/CurrencyFormatter" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\LENOVO\Desktop\MyLib\price-formater\Azimzada.CurrencyFormatter\bin\Release\net6.0\Azimzada.CurrencyFormatter.dll" target="lib\net6.0\Azimzada.CurrencyFormatter.dll" />
+  </files>
+</package>

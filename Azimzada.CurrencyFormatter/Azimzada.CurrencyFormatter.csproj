@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Azimzada.CurrencyFormatter</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mahammad Azimzada</Authors>
+    <Company>Azimzada</Company>
+    <Product>Currency Formatter</Product>
+    <Description>Advanced currency formatter library that supports all currencies and cultures with compact formatting and minor currency units.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/MrAzimzadeh/CurrencyFormatter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MrAzimzadeh/CurrencyFormatter</RepositoryUrl>
+    <PackageTags>currency;formatter;money;culture;localization;compact;extension</PackageTags>
+    <Title>Azimzada Currency Formatter</Title>
+    <Summary>A comprehensive currency formatting library with compact notation and extension methods</Summary>
+  </PropertyGroup>
+
+</Project>
