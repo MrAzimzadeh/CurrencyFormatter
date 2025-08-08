@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyDescriptionAttribute(("Advanced currency formatter library that supports all currencies and cultures wit" +
     "h compact formatting and minor currency units."))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbe804b840b425d99687a6d9edf298df3c18003e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Currency Formatter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Azimzada.CurrencyFormatter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
